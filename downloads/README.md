@@ -5,7 +5,6 @@
 - [91390e1e-e0e2-4e1d-b592-02193db9463c](./91390e1e-e0e2-4e1d-b592-02193db9463c)
 - [973ddbee-6fae-4804-8bb4-2eb96055bbe5](./973ddbee-6fae-4804-8bb4-2eb96055bbe5)
 - [d917480f-a907-4092-aa97-7a4d3f543212](./d917480f-a907-4092-aa97-7a4d3f543212)
-- [tru-kait-picnic-TX9Ze3Sd](./tru-kait-picnic-TX9Ze3Sd)
 
 ---
 
